@@ -50,4 +50,4 @@ Mac (Terminal):
 
 
 # video link
-https://drive.google.com/file/d/1OJYv6-0Eavl9WU8taIwWO3IgHzYGT56p/view?usp=sharing
+https://drive.google.com/file/d/1FujMqyXa4g1DjGHYRcdSoJIb-a-1Nebz/view?usp=sharing

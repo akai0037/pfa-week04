@@ -34,6 +34,7 @@ Mac (Terminal):
 4. Changed the ball to a Pop Cat image.
 5. Added a game-over screen with the final time and coins.
 6. Made the image on the game-over screen grow bigger based on the number of coins collected.
+7. Added a changing background color. The background changes based on how long the player survives.
 
 ## How it works
 1. This function checks if player touches a coin. When the player collects a coin, the coin disappears and the coin count goes up by one.
